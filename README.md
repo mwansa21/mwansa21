@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mwansa21
-- 👀 I’m interested in artificial intelligence and machine learning 
+- I’m interested in data science and machine learning.
+- I am an engineer, data analyst and tutor.
 - 🌱 I’m currently learning python and front end web development
 - 💞️ I’m looking to collaborate on projects to aid in my practice
 - 📫 How to reach me on my email - mwansa.n.ngoma@outlook.com
